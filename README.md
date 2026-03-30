@@ -132,6 +132,6 @@ This work builds upon established market microstructure theory and contributes:
 - [LinkedIn](https://linkedin.com/in/ajit-priyadarshi-395958227)
 - [GitHub](https://github.com/Z-Sigma)
 
-## 📄 License
+## Note
 
 This project is part of an academic assessment. Please respect intellectual property rights.
